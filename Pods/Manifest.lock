@@ -1,0 +1,15 @@
+PODS:
+  - MGSwipeTableCell (1.5.6)
+  - PermissionScope (1.1.1)
+
+DEPENDENCIES:
+  - MGSwipeTableCell
+  - PermissionScope
+
+SPEC CHECKSUMS:
+  MGSwipeTableCell: 616700eb0ffd1c611ba909066cb7fd739790a0a7
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+
+PODFILE CHECKSUM: be46b3fc881c1948dfa4fc37eedb58505683a016
+
+COCOAPODS: 1.2.0

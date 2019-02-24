@@ -1,0 +1,6 @@
+framework module Pods_Keymate {
+  umbrella header "Pods-Keymate-umbrella.h"
+
+  export *
+  module * { export * }
+}
