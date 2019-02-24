@@ -1,4 +1,6 @@
 # keymate
+**THIS PROJECT IS OUTDATED AND WAS LAST TOUCHED MARCH 2017**
+
 This is an iOS project for the module "Software Egnineering under iOS" for the BSc degree Mobile Computing at the University of Applied Sciences Upper Austria.
 
 ![](images/introduction.png)
